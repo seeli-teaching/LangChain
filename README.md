@@ -147,3 +147,6 @@ where code examples are changed to code examples for using this project.
 ![JetBrains logo](https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.png)
 
 This project is supported by JetBrains through the [Open Source Support Program](https://jb.gg/OpenSourceSupport).
+
+
+Mein Beitrag zu diesem Projekt ist die Implementierung der `SQLiteVectorStore` Klasse, die es ermöglicht, Vektoren in einer SQLite Datenbank zu speichern und zu laden. Diese Klasse wird verwendet, um die Vektoren der Texte aus einem PDF zu speichern und später abzurufen. Die Klasse ist so implementiert, dass sie einfach
